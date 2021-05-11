@@ -5,7 +5,7 @@ export const getUsers = () => async ( dispatch, getState ) => {
     type: GET_USERS_REQUEST
   });
 
-  const response = await fetch("http://domer.tech:9999/users");
+  const response = await fetch("https://domer.tech:9999/users");
   const users = await response.json();
   
   if (!response.ok) {
