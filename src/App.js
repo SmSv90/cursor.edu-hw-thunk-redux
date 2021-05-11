@@ -15,7 +15,7 @@ function App() {
         <Switch>
           <Route path="/cursor.edu-hw-thunk-redux/" component= { HomePage } exact />
           <Route path="/cursor.edu-hw-thunk-redux/adduser" component= { AddUser } />
-          <Route path="/cursor.edu-hw-thunk-redux/users" component= { Users } exact />
+          <Route path="/cursor.edu-hw-thunk-redux/users" component= { Users }/>
         </Switch>
       </main>
     </div>
