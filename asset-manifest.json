@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/cursor.edu-hw-thunk-redux/static/css/main.4a8b4f97.chunk.css",
+    "main.js": "/cursor.edu-hw-thunk-redux/static/js/main.8622035b.chunk.js",
+    "main.js.map": "/cursor.edu-hw-thunk-redux/static/js/main.8622035b.chunk.js.map",
+    "runtime-main.js": "/cursor.edu-hw-thunk-redux/static/js/runtime-main.c8416d67.js",
+    "runtime-main.js.map": "/cursor.edu-hw-thunk-redux/static/js/runtime-main.c8416d67.js.map",
+    "static/js/2.6bbb1d91.chunk.js": "/cursor.edu-hw-thunk-redux/static/js/2.6bbb1d91.chunk.js",
+    "static/js/2.6bbb1d91.chunk.js.map": "/cursor.edu-hw-thunk-redux/static/js/2.6bbb1d91.chunk.js.map",
+    "static/js/3.e6f31a77.chunk.js": "/cursor.edu-hw-thunk-redux/static/js/3.e6f31a77.chunk.js",
+    "static/js/3.e6f31a77.chunk.js.map": "/cursor.edu-hw-thunk-redux/static/js/3.e6f31a77.chunk.js.map",
+    "index.html": "/cursor.edu-hw-thunk-redux/index.html",
+    "static/css/main.4a8b4f97.chunk.css.map": "/cursor.edu-hw-thunk-redux/static/css/main.4a8b4f97.chunk.css.map",
+    "static/js/2.6bbb1d91.chunk.js.LICENSE.txt": "/cursor.edu-hw-thunk-redux/static/js/2.6bbb1d91.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c8416d67.js",
+    "static/js/2.6bbb1d91.chunk.js",
+    "static/css/main.4a8b4f97.chunk.css",
+    "static/js/main.8622035b.chunk.js"
+  ]
+}
