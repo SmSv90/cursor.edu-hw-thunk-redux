@@ -10,15 +10,12 @@ export const HomePage = () => {
         <div className="general__text">
           <h2>Thunk Redux homework</h2>
           <p>
-            УВАГА! В зв'язку з тим, що github pages блокує http запити, а REST API не підтримує безпечне з'єднання https був використаний CORS API.
-            <br/>
-            Перейдіть за посиланням нижче і натисність кнопку "Request temporary access to the demo server".
-            <br/>
-            Після цього Ви зможете отримувати і надсилати дані на http://domer.tech:9999/.
-            <br/>
+            УВАГА! Так як github pages блокує http запити, а REST API не підтримує безпечне зєднання https був використаний CORS API.
+            Перейдіть за цим посиланням нижче і натисність кнопку equest temporary access to the demo server.
+            Після цього Ви зможете отримувати і надсилати дані на REST API.
             Дякую за розуміння.
           </p>
-          <a href="https://cors-anywhere.herokuapp.com/corsdemo" target="_blank">Link to CORS API</a>
+          <a href="https://cors-anywhere.herokuapp.com/corsdemo" target="_blank" rel="noreferrer">Link to CORS API</a>
         </div>
       </div>
     </div>
