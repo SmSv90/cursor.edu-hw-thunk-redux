@@ -2,7 +2,7 @@ import { ADD_USER_REQUEST, ADD_USER_SUCCESS, ADD_USER_ERROR } from "./types";
 
 export const addUserAction = (props) => async ( dispatch, getState ) => {
   const data = props;
-  const response = await fetch("https://domer.tech:9999/users", {
+  const response = await fetch("https://cors-anywhere.herokuapp.com/http://domer.tech:9999/users", {
     method: 'POST',
     headers: {
       'Content-Type': 'application/json',
